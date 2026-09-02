@@ -1,7 +1,7 @@
 Satyam Upadhyay - Developer Portfolio
 
 A sleek, dark-themed personal portfolio website designed and built from scratch using pure HTML5 and modern CSS3
-Live URL:-https://my-new-portfolio-psi-seven.vercel.app/
+Live URL:-https://my-new-portfolio-12zc.vercel.app/
 
 Tech Stack & Tools:-
 
