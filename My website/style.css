@@ -308,6 +308,7 @@ nav .navigation li a:hover{
         width: 90%;
         max-width: 850px;
         padding: 30px 24px;
+        height:fit-content
     }
 
     .my-qualifications .skill .tools {
