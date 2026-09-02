@@ -268,11 +268,7 @@ nav .navigation li a:hover{
         }
 
 
-        /* ==================================================
-   RESPONSIVE MEDIA QUERIES (TABLETS & PHONES)
-   ================================================== */
-
-/* --- Tablet Screens (iPad / Tablets / Small Laptops) --- */
+       
 @media (max-width: 1024px) {
     .mega-selector {
         flex-direction: column;
@@ -369,6 +365,43 @@ nav .navigation li a:hover{
         border-radius: 20px;
     }
 }
+
+.skill .learning{
+    margin-top:10px;
+}
+
+ .skill .learning h3{
+     font-size:40px;
+     color:#fff
+    }  
+    .skill .learning hr{
+        margin-top:20px;
+        margin-bottom:20px;
+        height:5px;
+        width:80px;
+        background-color: #EAB308;
+    }
+
+    .skill .learning .react{
+        font-size:100px;
+    }
+    .skill .learning .js{
+     background-color:black;
+     color:#EAB308;
+     border-radius: 25px;
+     padding:12px;
+    }
+    .skill .learning .node{
+    background-color:black;
+     color:#EAB308;
+     border-radius: 25px;
+     padding:12px;
+     margin-left:25px;
+    }
+        
+        
+       
+       
 
          
 
